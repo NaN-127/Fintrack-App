@@ -74,7 +74,6 @@ Data (Room DB + DataStore + AI Remote)
 * **Networking:** Ktor
 * **Async:** Kotlin Coroutines + Flow
 * **Pagination:** Paging 3
-* **Charts:** Vico
 * **Serialization:** Kotlinx Serialization
 
 ### AI Integration
