@@ -110,7 +110,7 @@ Data (Room DB + DataStore + AI Remote)
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/fintrack.git
+git clone https://github.com/NaN-127/Fintrack-App
 ```
 
 2. Open in **Android Studio**
