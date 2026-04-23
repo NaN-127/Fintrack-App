@@ -31,7 +31,7 @@ android {
         buildConfigField(
             "String",
             "GEMINI_API_KEY",
-            "\"${localProperties.getProperty("geminiApiKey", "")}\""
+            "\"${localProperties.getProperty("geminiApiKey", "AIzaSyCGdq2T4tDna1APd9Zqb_texeilvWQbHS4")}\""
         )
         vectorDrawables.useSupportLibrary = true
     }
