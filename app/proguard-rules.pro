@@ -19,3 +19,12 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+# Ignore missing optional dependencies referenced by third-party libraries (Ktor, Netty, etc.)
+-dontwarn io.micrometer.context.**
+-dontwarn java.lang.management.**
+-dontwarn javax.enterprise.inject.**
+-dontwarn okhttp3.internal.**
+-dontwarn org.apache.log4j.**
+-dontwarn org.apache.logging.log4j.**
+-dontwarn reactor.blockhound.**
